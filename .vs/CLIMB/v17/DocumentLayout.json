@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Unity_Re\\CLIMB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity_Re\\CLIMB\\Assets\\playerStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\playerStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8210ACD1-CC70-9C2B-2D4D-9D96216244AC}|Assembly-CSharp.csproj|D:\\Unity_Re\\CLIMB\\assets\\enemybehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8210ACD1-CC70-9C2B-2D4D-9D96216244AC}|Assembly-CSharp.csproj|solutionrelative:assets\\enemybehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,6 +15,14 @@
       "RelativeMoniker": "D:0:0:{8210ACD1-CC70-9C2B-2D4D-9D96216244AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\health_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8210ACD1-CC70-9C2B-2D4D-9D96216244AC}|Assembly-CSharp.csproj|d:\\unity_re\\climb\\assets\\scripts\\weapons\\bullettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8210ACD1-CC70-9C2B-2D4D-9D96216244AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\bullettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8210ACD1-CC70-9C2B-2D4D-9D96216244AC}|Assembly-CSharp.csproj|d:\\unity_re\\climb\\assets\\scripts\\scriptableobjects\\attackmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8210ACD1-CC70-9C2B-2D4D-9D96216244AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\attackmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8210ACD1-CC70-9C2B-2D4D-9D96216244AC}|Assembly-CSharp.csproj|D:\\Unity_Re\\CLIMB\\assets\\scripts\\common\\objectpooling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8210ACD1-CC70-9C2B-2D4D-9D96216244AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\objectpooling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8210ACD1-CC70-9C2B-2D4D-9D96216244AC}|Assembly-CSharp.csproj|D:\\Unity_Re\\CLIMB\\assets\\scripts\\weapons\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8210ACD1-CC70-9C2B-2D4D-9D96216244AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8210ACD1-CC70-9C2B-2D4D-9D96216244AC}|Assembly-CSharp.csproj|D:\\Unity_Re\\CLIMB\\assets\\scripts\\weapons\\bullettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8210ACD1-CC70-9C2B-2D4D-9D96216244AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\bullettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8210ACD1-CC70-9C2B-2D4D-9D96216244AC}|Assembly-CSharp.csproj|D:\\Unity_Re\\CLIMB\\assets\\scripts\\common\\auto_mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,60 +50,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "playerStats.cs",
-              "DocumentMoniker": "D:\\Unity_Re\\CLIMB\\Assets\\playerStats.cs",
-              "RelativeDocumentMoniker": "Assets\\playerStats.cs",
-              "ToolTip": "D:\\Unity_Re\\CLIMB\\Assets\\playerStats.cs",
-              "RelativeToolTip": "Assets\\playerStats.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "attackManager.cs",
+              "DocumentMoniker": "D:\\Unity_Re\\CLIMB\\Assets\\Scripts\\ScriptableObjects\\attackManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\attackManager.cs",
+              "ToolTip": "D:\\Unity_Re\\CLIMB\\Assets\\Scripts\\ScriptableObjects\\attackManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\attackManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T07:50:02.588Z",
+              "WhenOpened": "2024-06-27T19:41:04.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "health_SO.cs",
               "DocumentMoniker": "D:\\Unity_Re\\CLIMB\\Assets\\Scripts\\ScriptableObjects\\health_SO.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\health_SO.cs",
               "ToolTip": "D:\\Unity_Re\\CLIMB\\Assets\\Scripts\\ScriptableObjects\\health_SO.cs",
               "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\health_SO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T07:43:57.45Z"
+              "WhenOpened": "2024-06-27T07:43:57.45Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "BulletType.cs",
+              "DocumentMoniker": "D:\\Unity_Re\\CLIMB\\Assets\\Scripts\\weapons\\BulletType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\weapons\\BulletType.cs",
+              "ToolTip": "D:\\Unity_Re\\CLIMB\\Assets\\Scripts\\weapons\\BulletType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\weapons\\BulletType.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:14:06.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HealthManager.cs",
               "DocumentMoniker": "D:\\Unity_Re\\CLIMB\\Assets\\Scripts\\ScriptableObjects\\HealthManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\HealthManager.cs",
               "ToolTip": "D:\\Unity_Re\\CLIMB\\Assets\\Scripts\\ScriptableObjects\\HealthManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\HealthManager.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAmwBoAAAAoAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAA2wCIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T07:14:55.577Z"
+              "WhenOpened": "2024-06-27T07:14:55.577Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "enemyBehaviour.cs",
               "DocumentMoniker": "D:\\Unity_Re\\CLIMB\\Assets\\enemyBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\enemyBehaviour.cs",
               "ToolTip": "D:\\Unity_Re\\CLIMB\\Assets\\enemyBehaviour.cs",
               "RelativeToolTip": "Assets\\enemyBehaviour.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T07:37:24.87Z"
+              "WhenOpened": "2024-06-27T07:37:24.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ObjectPooling.cs",
               "DocumentMoniker": "D:\\Unity_Re\\CLIMB\\Assets\\Scripts\\common\\ObjectPooling.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\common\\ObjectPooling.cs",
@@ -116,18 +132,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "BulletType.cs",
-              "DocumentMoniker": "D:\\Unity_Re\\CLIMB\\Assets\\Scripts\\weapons\\BulletType.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\weapons\\BulletType.cs",
-              "ToolTip": "D:\\Unity_Re\\CLIMB\\Assets\\Scripts\\weapons\\BulletType.cs",
-              "RelativeToolTip": "Assets\\Scripts\\weapons\\BulletType.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T04:14:06.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "shoot.cs",
               "DocumentMoniker": "D:\\Unity_Re\\CLIMB\\Assets\\Scripts\\weapons\\shoot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\weapons\\shoot.cs",
@@ -151,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "characterController.cs",
               "DocumentMoniker": "D:\\Unity_Re\\CLIMB\\Assets\\Scripts\\characterController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\characterController.cs",

@@ -28,4 +28,12 @@ public class HealthManager :ScriptableObject
     }
 
 
+    //getter function for health 
+
+    public float getCurrHealth()
+    {
+        return currHealth;
+    }
+
+
 }

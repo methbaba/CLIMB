@@ -6,6 +6,11 @@ public class BulletType : MonoBehaviour
 {
     [SerializeField] float speed;
     [SerializeField] Rigidbody2D rb;
+
+
+    //reference to trigger SO 
+
+    [SerializeField] attackManager attack;
     
     private void Start()
     {
@@ -22,6 +27,7 @@ public class BulletType : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("destructible"))
         {
+            attack.doDamage();
             gameObject.SetActive(false);
         }
     }

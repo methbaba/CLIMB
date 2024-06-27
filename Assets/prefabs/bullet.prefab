@@ -163,3 +163,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 400
   rb: {fileID: 8391374122228094679}
+  attack: {fileID: 11400000, guid: 0665e455a06be9a4eb2b6b290a107906, type: 2}

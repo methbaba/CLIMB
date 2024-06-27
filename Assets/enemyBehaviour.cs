@@ -4,15 +4,23 @@ using UnityEngine;
 
 public class enemyBehaviour : MonoBehaviour
 {
-    [SerializeField] HealthManager healthManager;
-    private void OnTriggerEnter2D(Collider2D collision)
+    [SerializeField] attackManager attackReceiver;
+    [SerializeField] health_SO healthCurr;
+
+
+    private void OnEnable()
     {
-        if (collision.gameObject.CompareTag("Player"))
-        {
-            Debug.Log("player deetcted attck ");
-            healthManager.decreaseHealth(10);
-        }
+        attackReceiver.damageEvent.AddListener(decrese);
     }
 
-    
+    void decrese(float damage )
+    {
+        float temp = healthCurr.getHealth();
+        temp-=damage;
+
+        if (temp <= 0)
+        {
+            this.gameObject.SetActive(false);
+        }
+    }
 }
